@@ -15,11 +15,6 @@ This Streamlit application allows you to upload PDF documents and interact with 
 
 ---
 
-## Installation
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/pdf-chat-rag.git
-cd pdf-chat-rag
 
